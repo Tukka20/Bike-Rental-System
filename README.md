@@ -1,5 +1,6 @@
 # Bike-Rental-System
 A console-based Bike Rental System developed using Java, JDBC, and MySQL.
+
 The project supports Admin and Customer roles with proper database interaction.
 # Features
   # Admin
